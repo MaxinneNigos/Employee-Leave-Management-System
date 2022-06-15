@@ -1,0 +1,14 @@
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\bin\Debug\netcoreapp3.1\employeeLeavesManagement.exe
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\bin\Debug\netcoreapp3.1\employeeLeavesManagement.deps.json
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\bin\Debug\netcoreapp3.1\employeeLeavesManagement.runtimeconfig.json
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\bin\Debug\netcoreapp3.1\employeeLeavesManagement.runtimeconfig.dev.json
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\bin\Debug\netcoreapp3.1\employeeLeavesManagement.dll
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\bin\Debug\netcoreapp3.1\employeeLeavesManagement.pdb
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\obj\Debug\netcoreapp3.1\employeeLeavesManagement.csproj.AssemblyReference.cache
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\obj\Debug\netcoreapp3.1\employeeLeavesManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\obj\Debug\netcoreapp3.1\employeeLeavesManagement.AssemblyInfoInputs.cache
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\obj\Debug\netcoreapp3.1\employeeLeavesManagement.AssemblyInfo.cs
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\obj\Debug\netcoreapp3.1\employeeLeavesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\obj\Debug\netcoreapp3.1\employeeLeavesManagement.dll
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\obj\Debug\netcoreapp3.1\employeeLeavesManagement.pdb
+C:\Users\Jel`\source\repos\employeeLeavesManagement\employeeLeavesManagement\obj\Debug\netcoreapp3.1\employeeLeavesManagement.genruntimeconfig.cache
